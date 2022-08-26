@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: #faeefa;
 }
 
@@ -13,4 +13,8 @@
 
 .footer {
   background-color: #ec31e9;
+}
+
+section {
+  padding-top: 6rem;
 }
