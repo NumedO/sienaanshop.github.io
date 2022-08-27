@@ -18,3 +18,11 @@
 section {
   padding-top: 6rem;
 }
+
+.img-gallery {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
